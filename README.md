@@ -1,1 +1,1 @@
-![Oiwns's GitHub stats](https://github-readme-stats.vercel.app/api?username=oiwn&hide=contribs,prs)
+Rust engineer focused on backend systems, data pipelines, and high-performance services. Also creating digital art.
